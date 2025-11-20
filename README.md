@@ -16,8 +16,9 @@
 9- <i>Sauvegarder, activer le script, redémarrer le navigateur / Save, enable the script, restart your browser<br><br></i>
 
 <DIV align="center">
+  
 ![Bravo](https://img.shields.io/badge/Bravo%20vous%20avez%20fait%20un%20premier%20pas%20!-087214?style=for-the-badge)
 
-<h5>Maintenant le plus compliqué : ne pas flancher ! Le contenu vertical est une drogue. Elle consomme notre temps et notre matière grise.  
+<h5>Maintenant le plus compliqué : ne pas flancher ! Le contenu vertical est une drogue. Elle consomme notre temps et notre matière grise.<br><br>  
 Now the hard part: don’t fall back! Vertical content is addictive. It consumes our time and mental energy.</h5>
 </DIV>
